@@ -1,2 +1,2 @@
-# Apple-interface-design
+# Applied-interface-design
 G418 S1
